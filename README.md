@@ -7,8 +7,8 @@ In an era where voice-activated virtual assistants and speech-based applications
 increasingly prevalent, the field of speech recognition classification has taken center stage. As
 data scientists, we find ourselves at the forefront of this fascinating domain, tasked with
 deciphering the intricacies of voice data and enabling machines to understand human speech
-patterns. Our objective in this article is to explore the realm of speech recognition classification,
-specifically focusing on the recognition of basic commands. We aim to develop a system capable
+patterns. Our objective in this project is to explore the realm of speech recognition classification,
+specifically focusing on the recognition of basic commands. We developed a system capable
 of accurately identifying and classifying a predefined set of commands, including categories
 such as 'yes', 'no', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'up', and 'down'.
 
